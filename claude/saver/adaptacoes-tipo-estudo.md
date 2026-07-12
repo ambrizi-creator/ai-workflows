@@ -1,4 +1,5 @@
 Adaptações por Tipo de Estudo — Reprodução Animal/Humana, Biologia Molecular, Bioinformática, Inibidores e Tipos de Síntese (Revisões/Meta-análises)
+
 Este arquivo complementa rubrica-avaliacao.md. As 6 dimensões e os pesos continuam os mesmos — o que muda é o que procurar dentro de cada dimensão conforme o tipo de artigo. Primeiro identifique se é um estudo primário (seções A-D, por domínio: ômicas, inibidores, animal in vivo, humano clínico) ou um artigo de síntese (seções E-G: meta-análise, revisão sistemática, revisão narrativa) — os critérios de delineamento/estatística são bem diferentes entre os dois grupos, e forçar os critérios de estudo primário em um artigo de síntese (ou vice-versa) produz uma nota sem sentido. Um artigo pode combinar mais de um tipo (ex. RNA-seq + validação com inibidor) — nesse caso aplique os dois conjuntos de critérios às partes correspondentes.
 
 A. Bioinformática / Ômicas (RNA-seq, DNA-seq, ChIP-seq, proteômica)
